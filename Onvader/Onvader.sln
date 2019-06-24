@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Onvader", "Onvader\Onvader.vcxproj", "{A172775B-CF1B-4BAD-B935-A9E9285B16C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Debug|x64.ActiveCfg = Debug|x64
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Debug|x64.Build.0 = Debug|x64
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Debug|x86.Build.0 = Debug|Win32
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Release|x64.ActiveCfg = Release|x64
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Release|x64.Build.0 = Release|x64
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Release|x86.ActiveCfg = Release|Win32
+		{A172775B-CF1B-4BAD-B935-A9E9285B16C0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F1DE05-C4C1-4011-8EAD-3E40CC489AC8}
+	EndGlobalSection
+EndGlobal
